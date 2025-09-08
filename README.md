@@ -5,7 +5,7 @@ Este é o projeto final da 7ª Academia Java. A aplicação **Controle Total** �
 
   ![image](https://github.com/user-attachments/assets/73b08eb4-09cc-42b9-917d-42fac0c91db0) ![image](https://github.com/user-attachments/assets/abfd1dc7-d09e-48e9-9df2-97e5a253ddf0)
 
-## 📦 Estrutura do Projeto
+## 📦 Estrutura do Projeto!
 
 O projeto é dividido em duas partes principais:
 
