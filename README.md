@@ -10,7 +10,7 @@ Este é o projeto final da 7ª Academia Java. A aplicação **Controle Total** �
 O projeto é dividido em duas partes principais:
 
 1. **Frontend**: Desenvolvido em Angular.
-2. **Backend**: Desenvolvido em Spring Boot.
+2. **Backend**: Desenvolvido em Spring Boot;
 
 ### 🖥 Frontend
 
